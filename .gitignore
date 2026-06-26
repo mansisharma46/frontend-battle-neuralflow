@@ -1,0 +1,7 @@
+# Ignore Python IDE scripts
+fixer.py
+apply_fixes.py
+
+# Ignore heavy binary assets
+assets/*.pdf
+assets/*.mp4
